@@ -17,12 +17,12 @@ if (randomNumber1 > randomNumber2) {
 }
 
 function zainabWinMessage() {
-  var zMessage = "Zainab Wins! Eat Mubaaroka's food."
+  var zMessage = "Zainab Wins! Eat your roommate's food."
   document.querySelector("h1").innerHTML = zMessage;
 }
 
 function mubaarokaWinMessage() {
-  var mMessage = "Mubaaroka Wins! Eat Zainab's food"
+  var mMessage = "Mubaaroka Wins! Eat your roommate's food"
   document.querySelector("h1").innerHTML = mMessage;
 }
 
