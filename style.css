@@ -12,16 +12,17 @@
 
 .button {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+
   text-shadow: 5px 0 #232931;
   color: #fff !important;
   text-transform: uppercase;
   text-decoration: none;
   background: #ed3330;
-  padding: 20px;
+  padding: 30px;
   border-radius: 5px;
   display: inline-block;
   border: none;
+  font-size: 90px
   transition: all 0.4s ease 0s;
 }
 
